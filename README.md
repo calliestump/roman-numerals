@@ -2,7 +2,7 @@
 
 #### **Epicodus; 10.29.2020**
 
-### By _Callie Stump_
+### By  _Glen Buck, Nick Hennessy, Callie Stump_
 ---
 ## **Description**
 This webpage uses an implementation of JavaScript in order to create a roman numeral generator. The roman numeral generator prompts the user enter a number they would like to convert.
